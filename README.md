@@ -1,1 +1,3 @@
 # YOUTUBE UI CLONE TEMPLATE FOR BACKEND AND FRONTEND DEVELOPERS.
+
+> Backend developers often struggle to find front-end templates that include all the necessary features for real-world projects. We would like to present you with a comprehensive and complete YouTube clone template, written exclusively in HTML/CSS/JS, which contains all the functions a backend developer might need. You can use this template for any backend framework (Node.js, Python, PHP, Go, Etc...). This project is intended not only for backend developers but also for frontend developers who have not yet mastered clean code, true structure.
