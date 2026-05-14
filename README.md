@@ -222,3 +222,5 @@
 * 🛒 **Store:**  [iplay-store.netlify.app](https://iplay-store.netlify.app)
 * 👁 **Demo:**  [iplay-demo.netlify.app](https://iplay-demo.netlify.app)
 * 🍋 **Store Lemon Squeezy:** [muslims.lemonsqueezy.com](https://muslims.lemonsqueezy.com/)
+
+* ✉️ **Contact us** kpacav4ik.2002@gmail.com
