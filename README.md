@@ -91,7 +91,7 @@
 
 > 📄 Page: Reset password (error)
 
-![image](https://iplay-store.netlify.app/bin/media/img/reset_link_error.png)
+![image](https://iplay-store.netlify.app/bin/media/img/reset_password_error.png)
 
 <h3 align="center">⚠️ Error pages</h3>
 
