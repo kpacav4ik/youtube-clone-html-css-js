@@ -6,7 +6,7 @@
 * 👁 **Demo:**  [iplay-demo.netlify.app](https://iplay-demo.netlify.app)
 * 🍋 **Store Lemon Squeezy:** [muslims.lemonsqueezy.com](https://muslims.lemonsqueezy.com/)
 
-* ✉️ **Contact us** kpacav4ik.2002@gmail.com
+* ✉️ **Contact us:** kpacav4ik.2002@gmail.com
 
 
 <h3 align="center">📂 Main pages</h3>
@@ -223,7 +223,7 @@
 * 👁 **Demo:**  [iplay-demo.netlify.app](https://iplay-demo.netlify.app)
 * 🍋 **Store Lemon Squeezy:** [muslims.lemonsqueezy.com](https://muslims.lemonsqueezy.com/)
 
-* ✉️ **Contact us** kpacav4ik.2002@gmail.com
+* ✉️ **Contact us:** kpacav4ik.2002@gmail.com
 
 ---
 # YouTube Clone
